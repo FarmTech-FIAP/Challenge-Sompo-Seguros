@@ -65,3 +65,5 @@ Utilizaremos um modelo de **Classificação** (ex: Árvore de Decisão ou Random
 - [ ] **Sprint 2:** Criar o circuito no Wokwi com sensores e o código C++ para o ESP32.
 - [ ] **Sprint 3:** Criar o script Python no VS Code para ler a Serial e puxar a API.
 - [ ] **Sprint 4:** Treinar o modelo de IA com o dataset simulado completo e integrar o fluxo.
+
+## Link de acesso ao vídeo https://www.youtube.com/watch?v=ccfZtIHbggY
