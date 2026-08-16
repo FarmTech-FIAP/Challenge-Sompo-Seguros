@@ -7,4 +7,5 @@ scikit-learn
 streamlit
 oracledb
 joblib
+logging
 ```
