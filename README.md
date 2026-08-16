@@ -66,7 +66,24 @@ graph TD
     style D fill:#bfb,stroke:#333,stroke-width:2px
 ```
 
-## 6. Estrutura de Pastas do Repositório
+## 6. Dicionário de Dados (Script SQL)
+- O histórico é persistido utilizando o seguinte padrão Oracle SQL:
+```text
+SQL
+CREATE TABLE tb_historico_risco (
+    id_leitura          NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+    id_equipamento      VARCHAR2(50) NOT NULL,
+    data_hora           TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    chuva_acumulada_mm  NUMBER(5,2) NOT NULL,
+    umidade_solo_pct    NUMBER(5,2) NOT NULL,
+    inclinacao_graus    NUMBER(5,2) NOT NULL,
+    peso_maquina_ton    NUMBER(5,2) NOT NULL,
+    score_risco         NUMBER(3) NOT NULL,
+    classificacao_alerta VARCHAR2(20) NOT NULL
+);           
+```
+
+## 7. Estrutura de Pastas do Repositório
 ```text
 ├── AgroTrackerSP3.py                # Backend integrador (MVP Completo via Streamlit)
 ├── treinar_modelo.py                # Script de treinamento do modelo Random Forest
@@ -78,7 +95,7 @@ graph TD
 └── README.md                        # Documentação oficial do projeto
 ```
 
-## 7. Como Executar o Projeto Localmente
+## 8. Como Executar o Projeto Localmente
 Pré-requisitos: Python 3.9+
 
 - Clone o repositório para a sua máquina local:
@@ -103,12 +120,12 @@ Usuário: admin
 Senha: sompo2026
 ```
 
-## 8. Apresentação em Vídeo
+## 9. Apresentação em Vídeo
 O vídeo demonstrando o MVP em funcionamento de ponta a ponta, detalhando a tela de login, a execução do modelo preditivo e a consulta do banco de dados na interface, está disponível através do link abaixo:
 
 👉 ASSISTIR VÍDEO DO PROJETO:
 
-## 9. AHistórico de Entregas
+## 10. AHistórico de Entregas
 > Resumo da Sprint 2
 > 
 Foco: Engenharia de Dados, Simulação Estatística e Modelagem de Banco Relacional.
