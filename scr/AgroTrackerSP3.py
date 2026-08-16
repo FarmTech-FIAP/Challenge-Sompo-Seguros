@@ -143,7 +143,7 @@ if st.sidebar.button("Analisar Risco e Salvar no Banco"):
 
             except Exception as db_error:
                 st.warning("⚠️ Falha ao salvar no Banco de Dados.")
-                st.error(f"Detalhe técnico do erro: {db_error}") # <--- LINHA QUE NOS DARA A RESPOSTA DO ERRO
+                st.error(f"Detalhe técnico do erro: {db_error}") # <--- LINHA QUE EXIBE O ERRO SE HOUVER
                 logging.error(f"Erro BD: {db_error}")
 
         except Exception as pred_error:
@@ -156,7 +156,7 @@ if st.sidebar.button("Analisar Risco e Salvar no Banco"):
             st.markdown("---")
             st.subheader("📋 Histórico de Análises (Auditoria da Seguradora)")
 
-if st.button("Atualizar Histórico"):
+if st.button("Ultimos Registros"):
     try:
         # Mesmas credenciais configuradas no SQL FIAP
         ORACLE_USER = "rm572159"
