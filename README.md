@@ -94,7 +94,7 @@ CREATE TABLE tb_historico_risco (
 |   └── logo_agrorisk.jpeg              # Identidade visual da plataforma
 ├── 📁 scr/
 │   └── AgroTrackerSP3.py               # Backend integrador (MVP Completo via Streamlit)
-│   └── treinar_modelo.py               # Script de treinamento do modelo Random Forest
+│   └── ia_training.py                  # Script de treinamento do modelo Random Forest
 │   └── modelo_agrorisk.pkl             # Modelo de IA treinado e persistido (Cérebro do sistema)
 ├── 📁 sprints_passadas/
 ├── 📁 sql/
