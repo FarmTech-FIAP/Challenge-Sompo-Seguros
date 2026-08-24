@@ -1,0 +1,147 @@
+2026-08-16 10:33:44,731 - INFO - Acesso concedido ao dashboard.
+2026-08-16 10:34:04,023 - INFO - Acesso concedido ao dashboard.
+2026-08-16 10:34:10,622 - INFO - Acesso concedido ao dashboard.
+2026-08-16 10:34:10,657 - INFO - Processado: TRATOR-II | Score: 0 | Status: Seguro
+2026-08-16 10:34:10,686 - ERROR - Erro BD: DPY-6005: cannot connect to database (CONNECTION_ID=6khLyws9JfwPUIbBytUGuQ==).
+[Errno 61] Connection refused
+2026-08-16 11:22:32,192 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:27:39,222 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:28:56,175 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:29:01,431 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:29:01,467 - INFO - Processado: TRATOR-I | Score: 0 | Status: Seguro
+2026-08-16 11:29:01,878 - ERROR - Erro BD: ORA-00942: table or view does not exist
+Help: https://docs.oracle.com/error-help/db/ora-00942/
+2026-08-16 11:29:04,525 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:29:04,722 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:29:04,901 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:29:05,101 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:29:05,316 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:29:09,318 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:29:10,498 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:29:10,512 - INFO - Processado: TRATOR-I | Score: 0 | Status: Seguro
+2026-08-16 11:29:11,033 - ERROR - Erro BD: ORA-00942: table or view does not exist
+Help: https://docs.oracle.com/error-help/db/ora-00942/
+2026-08-16 11:29:14,427 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:29:15,597 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:29:15,610 - INFO - Processado: COLHEITADEIRA-II | Score: 0 | Status: Seguro
+2026-08-16 11:29:15,929 - ERROR - Erro BD: ORA-00942: table or view does not exist
+Help: https://docs.oracle.com/error-help/db/ora-00942/
+2026-08-16 11:29:20,794 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:29:22,115 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:29:22,127 - INFO - Processado: PULVERIZADOR-I | Score: 0 | Status: Seguro
+2026-08-16 11:29:22,535 - ERROR - Erro BD: ORA-00942: table or view does not exist
+Help: https://docs.oracle.com/error-help/db/ora-00942/
+2026-08-16 11:37:14,985 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:37:15,011 - INFO - Processado: PULVERIZADOR-I | Score: 0 | Status: Seguro
+2026-08-16 11:37:15,406 - ERROR - Erro BD: ORA-00942: table or view does not exist
+Help: https://docs.oracle.com/error-help/db/ora-00942/
+2026-08-16 11:37:20,191 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:37:22,680 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:37:22,694 - INFO - Processado: TRATOR-I | Score: 0 | Status: Seguro
+2026-08-16 11:37:23,010 - ERROR - Erro BD: ORA-00942: table or view does not exist
+Help: https://docs.oracle.com/error-help/db/ora-00942/
+2026-08-16 11:41:13,049 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:41:42,689 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:41:47,847 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:41:47,886 - INFO - Processado: TRATOR-I | Score: 0 | Status: Seguro
+2026-08-16 11:41:48,224 - ERROR - Erro BD: ORA-00942: table or view does not exist
+Help: https://docs.oracle.com/error-help/db/ora-00942/
+2026-08-16 11:46:57,966 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:47:00,344 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:47:00,359 - INFO - Processado: TRATOR-I | Score: 0 | Status: Seguro
+2026-08-16 11:47:00,806 - INFO - Registro inserido no Oracle DB para TRATOR-I.
+2026-08-16 11:47:15,825 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:47:18,614 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:47:23,566 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:47:41,421 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:47:49,617 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:47:51,211 - INFO - Acesso concedido ao dashboard.
+2026-08-16 11:47:51,227 - INFO - Processado: COLHEITADEIRA-I | Score: 17 | Status: Seguro
+2026-08-16 11:47:51,591 - INFO - Registro inserido no Oracle DB para COLHEITADEIRA-I.
+2026-08-16 12:05:00,237 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:05:11,443 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:05:12,422 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:05:12,439 - INFO - Processado: COLHEITADEIRA-I | Score: 62 | Status: Atenção
+2026-08-16 12:05:12,820 - INFO - Registro inserido no Oracle DB para COLHEITADEIRA-I.
+2026-08-16 12:08:22,966 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:08:41,282 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:08:46,618 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:08:51,014 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:08:55,563 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:08:59,730 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:09:04,793 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:09:05,871 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:09:05,907 - INFO - Processado: PULVERIZADOR-I | Score: 62 | Status: Atenção
+2026-08-16 12:09:06,284 - INFO - Registro inserido no Oracle DB para PULVERIZADOR-I.
+2026-08-16 12:09:10,838 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:10:04,952 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:10:11,599 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:10:13,504 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:10:13,520 - INFO - Processado: COLHEITADEIRA-II | Score: 62 | Status: Atenção
+2026-08-16 12:10:13,875 - INFO - Registro inserido no Oracle DB para COLHEITADEIRA-II.
+2026-08-16 12:10:44,104 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:10:51,648 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:10:59,428 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:11:03,812 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:11:04,853 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:11:04,865 - INFO - Processado: TRATOR-II | Score: 2 | Status: Seguro
+2026-08-16 12:11:05,219 - INFO - Registro inserido no Oracle DB para TRATOR-II.
+2026-08-16 12:11:08,788 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:21:28,449 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:21:50,758 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:32:10,386 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:36:03,776 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:36:14,817 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:36:25,027 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:36:33,161 - INFO - Acesso concedido ao dashboard.
+2026-08-16 12:36:35,560 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:01:56,763 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:02:08,160 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:02:13,503 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:03:49,047 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:04:08,291 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:04:29,166 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:06:56,293 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:07:06,879 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:07:47,752 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:08:36,531 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:13:51,333 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:14:49,468 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:14:58,559 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:15:02,208 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:15:02,241 - INFO - Processado: TRATOR-I | Score: 0 | Status: Seguro
+2026-08-16 13:15:02,621 - INFO - Registro inserido no Oracle DB para TRATOR-I.
+2026-08-16 13:26:21,703 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:38:39,214 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:40:32,032 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:40:36,312 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:41:23,144 - INFO - Acesso concedido ao dashboard.
+2026-08-16 13:41:49,581 - INFO - Acesso concedido ao dashboard.
+2026-08-16 15:32:14,925 - INFO - Acesso concedido ao dashboard.
+2026-08-16 15:33:11,824 - INFO - Acesso concedido ao dashboard.
+2026-08-16 15:33:23,949 - INFO - Acesso concedido ao dashboard.
+2026-08-16 15:33:27,747 - INFO - Acesso concedido ao dashboard.
+2026-08-16 15:33:28,903 - INFO - Acesso concedido ao dashboard.
+2026-08-16 15:33:28,941 - INFO - Processado: TRATOR-I | Score: 4 | Status: Seguro
+2026-08-16 15:33:29,423 - INFO - Registro inserido no Oracle DB para TRATOR-I.
+2026-08-16 15:33:35,837 - INFO - Acesso concedido ao dashboard.
+2026-08-16 15:33:42,279 - INFO - Acesso concedido ao dashboard.
+2026-08-16 15:33:47,364 - INFO - Acesso concedido ao dashboard.
+2026-08-16 15:33:52,509 - INFO - Acesso concedido ao dashboard.
+2026-08-16 15:33:53,605 - INFO - Acesso concedido ao dashboard.
+2026-08-16 15:33:53,621 - INFO - Processado: COLHEITADEIRA-II | Score: 96 | Status: Crítico
+2026-08-16 15:33:53,989 - INFO - Registro inserido no Oracle DB para COLHEITADEIRA-II.
+2026-08-16 15:34:00,104 - INFO - Acesso concedido ao dashboard.
+2026-08-16 15:47:09,553 - INFO - Acesso concedido ao dashboard.
+2026-08-16 15:48:59,628 - INFO - Acesso concedido ao dashboard.
+2026-08-16 15:49:10,375 - INFO - Acesso concedido ao dashboard.
+2026-08-16 15:49:14,128 - INFO - Acesso concedido ao dashboard.
+2026-08-16 18:17:30,964 - INFO - Acesso concedido ao dashboard.
+2026-08-16 18:17:39,501 - INFO - Acesso concedido ao dashboard.
+2026-08-16 18:17:49,143 - INFO - Acesso concedido ao dashboard.
+2026-08-16 18:17:55,359 - INFO - Acesso concedido ao dashboard.
+2026-08-16 18:18:04,576 - INFO - Acesso concedido ao dashboard.
+2026-08-16 18:18:08,258 - INFO - Acesso concedido ao dashboard.
+2026-08-16 18:18:08,291 - INFO - Processado: COLHEITADEIRA-I | Score: 55 | Status: Atenção
+2026-08-16 18:18:08,686 - INFO - Registro inserido no Oracle DB para COLHEITADEIRA-I.
+2026-08-16 18:18:13,567 - INFO - Acesso concedido ao dashboard.
