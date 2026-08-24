@@ -91,13 +91,13 @@ CREATE TABLE tb_historico_risco (
 │   └── dataset_agrorisk_simulado.csv   # Massa de dados gerada na Sprint 2 para treinamento
 ├── 📁 images/
 |   └── logo_agrorisk.jpeg              # Identidade visual da plataforma
-├── 📁 src/
-│   └── AgroTrackerSP3.py               # Backend integrador (MVP via Streamlit)
-│   └── ia_training.py                  # Script de treinamento do modelo Random Forest
-│   └── modelo_agrorisk.pkl             # Modelo de IA treinado e persistido (Cérebro do sistema)
 ├── 📁 sprints_passadas/
 ├── 📁 sql/
 │   └── create_tb_historico.sql         # Arquivo de texto com o CREATE TABLE
+├── 📁 src/
+│   └── AgroTrackerSP3.py               # Backend integrador (MVP via Streamlit)
+│   └── ia_training.py                  # Script de treinamento do modelo Random Forest
+│   └── modelo_agrorisk.pkl             # Modelo de IA treinado e persistido
 ├── README.md                           # Documentação oficial do projeto
 └── requirements.txt                    # Lista de dependências e bibliotecas
 
