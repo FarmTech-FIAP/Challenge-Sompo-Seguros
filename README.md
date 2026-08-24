@@ -132,7 +132,7 @@ Senha: sompo2026
 ## 9. Apresentação em Vídeo
 O vídeo demonstrando o MVP em funcionamento de ponta a ponta, detalhando a tela de login, a execução do modelo preditivo e a consulta do banco de dados na interface, está disponível através do link abaixo:
 
-👉 ASSISTIR VÍDEO DO PROJETO:
+👉 ASSISTIR VÍDEO DO PROJETO: https://youtu.be/6QTeIm3alik
 
 ## 10. AHistórico de Entregas
 > Resumo da Sprint 2
