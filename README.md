@@ -68,8 +68,7 @@ graph TD
 
 ## 6. Dicionário de Dados (Script SQL)
 - O histórico é persistido utilizando o seguinte padrão Oracle SQL:
-```text
-SQL
+```sql
 CREATE TABLE tb_historico_risco (
     id_leitura          NUMBER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     id_equipamento      VARCHAR2(50) NOT NULL,
@@ -92,7 +91,7 @@ CREATE TABLE tb_historico_risco (
 │   └── dataset_agrorisk_simulado.csv   # Massa de dados gerada na Sprint 2 para treinamento
 ├── 📁 images/
 |   └── logo_agrorisk.jpeg              # Identidade visual da plataforma
-├── 📁 scr/
+├── 📁 src/
 │   └── AgroTrackerSP3.py               # Backend integrador (MVP via Streamlit)
 │   └── ia_training.py                  # Script de treinamento do modelo Random Forest
 │   └── modelo_agrorisk.pkl             # Modelo de IA treinado e persistido (Cérebro do sistema)
@@ -108,19 +107,16 @@ CREATE TABLE tb_historico_risco (
 Pré-requisitos: Python 3.9+
 
 - Clone o repositório para a sua máquina local:
-```text
-Bash
+```bash
 git clone [https://github.com/FarmTech-FIAP/Challenge-Sompo-Seguros.git](https://github.com/FarmTech-FIAP/Challenge-Sompo-Seguros.git)
 cd Challenge-Sompo-Seguros             
 ```
 - Instale as bibliotecas e dependências do projeto:
-```text
-Bash
+```bash
 pip install -r requirements.txt
 ```
 - Execute a aplicação (O servidor Streamlit será iniciado no seu navegador):
-```text
-Bash
+```bash
 streamlit run AgroTrackerSP3.py
 ```
 - Credenciais de Acesso ao Sistema:
@@ -134,7 +130,7 @@ O vídeo demonstrando o MVP em funcionamento de ponta a ponta, detalhando a tela
 
 👉 ASSISTIR VÍDEO DO PROJETO: https://youtu.be/6QTeIm3alik
 
-## 10. AHistórico de Entregas
+## 10. Histórico de Entregas
 > Resumo da Sprint 2
 > 
 Foco: Engenharia de Dados, Simulação Estatística e Modelagem de Banco Relacional.
