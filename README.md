@@ -88,17 +88,17 @@ CREATE TABLE tb_historico_risco (
 ├── 📁 assets/
 │   └── logo-fiap.png                   # Logo FIAP
 ├── 📁 data/
-│   └── dataset_agrorisk_simulado.csv   # Massa de dados gerada na Sprint 2 para treinamento
 │   └── auditoria_sistema.log           # Arquivo gerado automaticamente contendo os rastros de uso
+│   └── dataset_agrorisk_simulado.csv   # Massa de dados gerada na Sprint 2 para treinamento
 ├── 📁 images/
 |   └── logo_agrorisk.jpeg              # Identidade visual da plataforma
 ├── 📁 scr/
-│   └── AgroTrackerSP3.py               # Backend integrador (MVP Completo via Streamlit)
+│   └── AgroTrackerSP3.py               # Backend integrador (MVP via Streamlit)
 │   └── ia_training.py                  # Script de treinamento do modelo Random Forest
 │   └── modelo_agrorisk.pkl             # Modelo de IA treinado e persistido (Cérebro do sistema)
 ├── 📁 sprints_passadas/
 ├── 📁 sql/
-│   └── script_oracle.sql               # Arquivo de texto com o CREATE TABLE
+│   └── create_tb_historico.sql         # Arquivo de texto com o CREATE TABLE
 ├── README.md                           # Documentação oficial do projeto
 └── requirements.txt                    # Lista de dependências e bibliotecas
 
